@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
 
 Python -> 해달 파일에 데이터 분석 프로젝트 CSV가 있습니다
+
 Spring -> 해당 파일은 스프링으로 만든 사이트 코드 입니다. 
+
 <img src="https://img.shields.io/badge/JS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/HTML-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
