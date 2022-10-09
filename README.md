@@ -1,4 +1,5 @@
-### Hi there I`m, electronicguy~ 👋 [자기소개서](https://doyeon.netlify.app/
+### Hi there I`m, electronicguy~ 👋
+https://doyeon.netlify.app/
 
 <!--
 **electronicguy97/electronicguy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
