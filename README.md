@@ -1,4 +1,4 @@
-### Hi there I`m, electronicguy~ 👋
+### Hi there I`m, electronicguy~ 👋 [자기소개서](https://doyeon.netlify.app/
 
 <!--
 **electronicguy97/electronicguy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
-
-<a herf = "https://doyeon.netlify.app/"><a>
 
 Python -> 해달 파일에 데이터 분석 프로젝트 ppt가 있습니다.
 
