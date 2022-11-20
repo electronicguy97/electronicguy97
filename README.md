@@ -46,5 +46,6 @@ Spring -> 해당 파일은 스프링으로 만든 사이트 코드 입니다.
 
 <img src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/CentOS-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Fedora-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
 
