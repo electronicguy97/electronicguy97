@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
-
+/h 각 Repositories에 대한 설명
 1. python
 	1) 분석 : 여러가지 방법으로 데이터를 분석 후 가장 좋은 방법으로 모델 추출 후 웹을 만들어 예시 		입력시 해당 데이터를 통한 결과값 도출
 	2) 시계열 : 각 나라의 GDP를 사용하여 분석 후 미래 데이터 값의 예상 도출
