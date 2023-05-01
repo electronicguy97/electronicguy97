@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 7. **spring** : JAVA/spring 프레임워크를 이용하여 게시판 웹을 제작
 
+8. **BasicPython : Python에서 기본적으로 사용하는 코드
+
 
 ### 보유기술
 <img src="https://img.shields.io/badge/JS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
