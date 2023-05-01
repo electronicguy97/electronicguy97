@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 2. **R** : 시계열 데이터 코드
 
-3. **CSV** : python Repositories에 사용된 데이터
+3. **CSV** : Repositories중 python에 사용된 데이터
 
 4. **AI** : python을 통하여 강아지와 고양이의 소리를 추출하여 분석
 
