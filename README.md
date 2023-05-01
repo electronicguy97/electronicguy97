@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 7. **spring** : JAVA/spring 프레임워크를 이용하여 게시판 웹을 제작
 
+
+### 보유기술
 <img src="https://img.shields.io/badge/JS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/HTML-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
@@ -61,4 +63,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CentOS-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Fedora-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
+<img src="https://img.shields.io/badge/Git-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Github-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Notion-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
