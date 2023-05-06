@@ -1,6 +1,8 @@
 ### Hi there I`m, electronicguy~ 👋
 https://doyeon.netlify.app/
 
+https://velog.io/@jayce_97
+
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
