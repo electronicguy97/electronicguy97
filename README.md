@@ -30,19 +30,27 @@ https://doyeon.netlify.app/
 
 
 ### 보유기술
-<img src="https://img.shields.io/badge/JS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/HTML-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/CSS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/JSP-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+
+<h3>Language</h3>
 
 <img src="https://img.shields.io/badge/Python-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/JAVA-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/R-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
+<h3>WEB-FE</h3>
+
+<img src="https://img.shields.io/badge/JS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/HTML-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/JSP-000000?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+
+<h3>WEB-BE</h3>
+
 <img src="https://img.shields.io/badge/MySQL-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Oracle-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/SQLite-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/MariaDB-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+
 
 <img src="https://img.shields.io/badge/Sklearn-FFFACD?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FFFACD?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
@@ -53,11 +61,20 @@ https://doyeon.netlify.app/
 <img src="https://img.shields.io/badge/Flask-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
+<h3>Linux</h3>
+
 <img src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/CentOS-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Fedora-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
-<img src="https://img.shields.io/badge/Git-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Github-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Notion-FF7F50?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<h3>DevOps</h3>
+
+<a href="https://git-scm.com/" onClick=""><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="https://github.com/" onClick=""><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.figma.com/" onClick=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="https://www.notion.so/ko-kr" onClick=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.linux.org/" onClick=""><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Shell_script" onClick=""><img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
+<a href="https://visualstudio.microsoft.com/ko/" onClick=""><img src="https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/" onClick=""><img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 
