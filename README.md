@@ -71,7 +71,6 @@ https://doyeon.netlify.app/
 
 <a href="https://git-scm.com/" onClick=""><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href="https://github.com/" onClick=""><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.figma.com/" onClick=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 <a href="https://www.notion.so/ko-kr" onClick=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.linux.org/" onClick=""><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Shell_script" onClick=""><img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
