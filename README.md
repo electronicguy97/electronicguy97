@@ -13,7 +13,9 @@ https://velog.io/@jayce_97
 
 # 👍 Velog 👍
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jayce_97)](https://velog.io/@jayce_97)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97&color=dark)](https://github.com/jayce_97/velog-readme-stats)
+https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97&tag=github
 ---
 
 ### 각 Repositories에 대한 설명
