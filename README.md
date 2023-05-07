@@ -11,9 +11,8 @@ https://velog.io/@jayce_97
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
 
-#### Velog
+# 👍 Velog 👍
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jayce_97)](https://velog.io/@jayce_97)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://github.com/jayce_97/velog-readme-stats)
 
 ### 각 Repositories에 대한 설명
