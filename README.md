@@ -2,7 +2,6 @@
 https://doyeon.netlify.app/
 
 https://velog.io/@jayce_97
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jayce_97)](https://velog.io/@jayce_97)
 
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
