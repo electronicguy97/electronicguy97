@@ -16,7 +16,8 @@ https://velog.io/@jayce_97
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97&color=dark)](https://github.com/jayce_97/velog-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97&color=dark)](https://github.com/jayce_97/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
+
 https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97
 ---
 
