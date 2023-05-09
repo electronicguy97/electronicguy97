@@ -59,7 +59,8 @@ https://velog.io/@jayce_97
 <img src="https://img.shields.io/badge/MySQL-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Oracle-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/SQLite-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/MariaDB-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Tomcat-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Mybatis-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
 <h3>FRAME-WORK<h3>
 	
