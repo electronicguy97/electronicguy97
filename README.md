@@ -34,7 +34,7 @@ https://velog.io/@jayce_97
 
 7. **spring** : JAVA/spring 프레임워크를 이용하여 게시판 웹을 제작
 
-8. **BasicPython** : Python에서 기본적으로 사용하는 코드
+8. **BasicPython** : Python에서 기본적으로 사용하는 코드(블로그작성 중)
 
 
 ### 보유기술
