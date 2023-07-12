@@ -36,6 +36,8 @@ https://velog.io/@jayce_97
 
 8. **[BasicPython](https://github.com/electronicguy97/)** : Python에서 기본적으로 사용하는 코드(블로그작성 중)
 
+9.  ** [TODO](https://github.com/electronicguy97/todo)** : Python의 Django를 이용하여 할일 사이트 작성
+
 ### * 각 Repository 마다 추가 설명을 적어두었습니다
 
 ### 보유기술
