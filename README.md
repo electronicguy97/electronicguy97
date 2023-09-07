@@ -42,6 +42,8 @@ https://velog.io/@jayce_97
 
 10.  **[Snakegame](https://github.com/electronicguy97/snakegame)** : Gpt-Engineer를 활용하여 sankegame을 작성
 
+11.  **[SimSim Chatbot](https://github.com/electronicguy97/SimSim_chatbot)** : emdedding을 활용하여 chatbot을 구현
+
 ### * 각 Repository 마다 추가 설명을 적어두었습니다
 
 ### 보유기술
