@@ -1,7 +1,7 @@
 # Hi there I`m, electronicguy~ 👋
 
 # 👍 self-promotion 👍
-[***🅿️ Notion 🅿️***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
+[***📄 Notion 📄***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
 [***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jayce_97)](https://velog.io/@jayce_97)
