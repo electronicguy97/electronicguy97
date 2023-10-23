@@ -6,7 +6,9 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?color=dark&name=jayce_97)](https://velog.io/@jayce_97)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?color=dark&name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=jayce_97)](https://velog.io/@jayce_97)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
 
 # 🤺 Skills 🤺
