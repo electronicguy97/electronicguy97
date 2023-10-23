@@ -6,7 +6,7 @@
 
 [***🅿️ Notion 🅿️***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
 
-
+---
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
