@@ -1,14 +1,5 @@
 # Hi there I`m, electronicguy~ 👋
 
-# 👍 self-promotion 👍
-[***📄 Notion 📄***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
-[***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
-
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=jayce_97)](https://velog.io/@jayce_97)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
-
-
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,6 +7,14 @@
 [![electronicguy97's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
+
+# 👍 self-promotion 👍
+[***📄 Notion 📄***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
+[***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
+
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=jayce_97)](https://velog.io/@jayce_97)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
 ---
 
