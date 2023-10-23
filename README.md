@@ -1,10 +1,10 @@
 # Hi there I`m, electronicguy~ 👋
 
-### 웹(https://doyeon.netlify.app/)
+### [웹](https://doyeon.netlify.app/)
  
-### 벨로그(https://velog.io/@jayce_97)
+### [벨로그](https://velog.io/@jayce_97)
 
-### 노션(https://jayce97.notion.site/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f?pvs=4)
+### [노션](https://jayce97.notion.site/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f?pvs=4)
 
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
