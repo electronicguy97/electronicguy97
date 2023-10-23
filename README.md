@@ -1,6 +1,6 @@
 # Hi there I`m, electronicguy~ 👋
 
-# self-promotion
+# 👍 self-promotion 👍
 [***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
 
 [***🅿️ Velog 🅿️***](https://velog.io/@jayce_97)
