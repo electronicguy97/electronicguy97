@@ -1,10 +1,11 @@
 # Hi there I`m, electronicguy~ 👋
 
-### [웹](https://doyeon.netlify.app/)
+## [🅿️ Web 🅿️](https://doyeon.netlify.app/)
  
-### [벨로그](https://velog.io/@jayce_97)
+## [🅿️ Velog 🅿️](https://velog.io/@jayce_97)
 
-### [노션](https://jayce97.notion.site/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f?pvs=4)
+## [🅿️ Notion 🅿️](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
+
 
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,7 +20,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
-# [🅿️ Notion 🅿️](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
 ---
 
 ### 각 Repositories에 대한 설명
