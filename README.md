@@ -1,5 +1,8 @@
-# Hi there I`m, electronicguy~ 👋
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Electronicguy97&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  
+  <br>
 # 🤺 Skills 🤺
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
