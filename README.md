@@ -26,7 +26,6 @@
 ### 각 Repositories에 대한 설명
 **[python](https://github.com/electronicguy97/python)**
 	1 분석 : 여러가지 방법으로 데이터를 분석 후 가장 좋은 방법으로 모델 추출 후 웹을 만들어 예시 입력시 해당 데이터를 통한 결과 값 도출
- 
 	2 시계열 : 각 나라의 GDP를 사용하여 분석 후 미래 데이터 값의 예상 도출
 
 **[R](https://github.com/electronicguy97/R)** : 시계열 데이터 코드
