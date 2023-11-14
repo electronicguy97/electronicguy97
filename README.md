@@ -81,15 +81,15 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
-<img src="https://img.shields.io/badge/Django-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Flask-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Spring-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=FFFFFF"/></a>
 
 <h3>Linux</h3>
 
-<img src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/CentOS-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Fedora-FFFFFF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/centos-262577?style=plastic&logo=centos&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/fedora-51A2DA?style=plastic&logo=fedora&logoColor=FFFFFF"/></a>
 
 <h3>DevOps</h3>
 
