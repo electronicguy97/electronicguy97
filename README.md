@@ -16,7 +16,9 @@
 [***✨ LinkTree ✨***](https://linktr.ee/jayce_97)
   [***📄 Notion 📄***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
   [***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
+
 **[organiztion](https://github.com/deeptudy)**
+
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=jayce_97)](https://velog.io/@jayce_97)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
