@@ -69,11 +69,11 @@
 
 <h3>WEB-BE</h3>
 
-<img src="https://img.shields.io/badge/MySQL-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Oracle-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/SQLite-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Tomcat-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Mybatis-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/oracle-F80000?style=plastic&logo=oracle&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=plastic&logo=sqlite&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/mybatis-FF69B4?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 
 <h3>FRAME-WORK<h3>
 	
