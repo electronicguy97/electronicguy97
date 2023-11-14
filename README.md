@@ -22,7 +22,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
 ---
-
+** [organiztion](https://github.com/deeptudy) **
 ### 각 Repositories에 대한 설명
 **[python](https://github.com/electronicguy97/python)**
 	1 분석 : 여러가지 방법으로 데이터를 분석 후 가장 좋은 방법으로 모델 추출 후 웹을 만들어 예시 입력시 해당 데이터를 통한 결과 값 도출 <br>
