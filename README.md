@@ -78,7 +78,7 @@
 	
 <img src="https://img.shields.io/badge/Sklearn-FFFACD?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FFFACD?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/PyTorch-FFFACD?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
 <img src="https://img.shields.io/badge/Django-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Flask-F0F8FF?style=plastic&logo=#4353FF&logoColor=FFFFFF"/></a>
