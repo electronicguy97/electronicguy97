@@ -24,7 +24,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
 
-### Skills
+# Skills
 
 <h3>Language</h3>
 
