@@ -24,7 +24,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jayce_97)](https://velog-readme-stats.vercel.app/api/redirect?name=jayce_97)
 
 ---
-### * 각 Repository 마다 추가 설명을 적어두었습니다
 
 ### 보유기술
 
