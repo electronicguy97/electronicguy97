@@ -10,8 +10,6 @@
 # 😊 DoYeon 😊
 [![electronicguy97's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
-
 # 👍 self-promotion 👍
 [***✨ LinkTree ✨***](https://linktr.ee/jayce_97)
   [***📄 Notion 📄***](https://jayce97.notion.site/jayce97/Resume-5bd13fbff11d491dbe1b5dd0e9ae2a0f)
