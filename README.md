@@ -8,6 +8,7 @@
 [![electronicguy97's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electronicguy97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 😊 DoYeon 😊
+[![electronicguy97's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electronicguy97&show_icons=true&theme=merko)
 
