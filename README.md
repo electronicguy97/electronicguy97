@@ -14,8 +14,9 @@
 
 # 👍 self-promotion 👍
 [***✨ LinkTree ✨***](https://linktr.ee/jayce_97)
-  [***📄 Notion 📄***](https://jayce97.notion.site/Resume-32fd632de2ea4f24a7e86618c98d3a1a?pvs=74)
-  [***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
+[***📄 Notion 📄***](https://jayce97.notion.site/Resume-32fd632de2ea4f24a7e86618c98d3a1a?pvs=74)
+[***💬 github.io 💬***](https://electronicguy97.github.io/)
+[***🅿️ Web 🅿️***](https://doyeon.netlify.app/)
 
 **[organiztion](https://github.com/deeptudy)**
 
